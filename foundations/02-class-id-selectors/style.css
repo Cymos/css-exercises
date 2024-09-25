@@ -1,0 +1,19 @@
+.paragraph {
+    background-color: #bd558e;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#main {
+    color: #1b34c4;
+    font-size: 36px;
+}
+
+#info {
+    background-color: #56be68;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.paragraph, .cooler {
+    font-size: 24px;
+}
